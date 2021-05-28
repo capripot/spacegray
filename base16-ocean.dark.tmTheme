@@ -522,11 +522,11 @@
 			<key>name</key>
 			<string>Embedded</string>
 			<key>scope</key>
-			<string>punctuation.section.embedded, variable.interpolation</string>
+			<string>punctuation.section.embedded, variable.interpolation, source.ruby meta.interpolation punctuation.section.interpolation.begin, source.ruby meta.interpolation punctuation.section.interpolation.end</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ab7967</string>
+				<string>#f7ca88</string>
 			</dict>
 		</dict>
 		<dict>
